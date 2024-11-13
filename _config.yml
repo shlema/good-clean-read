@@ -1,7 +1,7 @@
 # Site settings
-title: Good Clean Read
-tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
+title: Proceed.to >
+tag_text: Proceed.to > # Media, writing, podcasting, and more
+description: Media and content services — from building in-house editorial teams to creating content strategies
 url: "https://transcendent-dodol-2f741f.netlify.app" # base URL for your site ie. "https://www.example.com"
 baseurl: "" # subpath for base of site, leave blank if hosting at root
 
