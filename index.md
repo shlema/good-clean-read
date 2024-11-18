@@ -12,7 +12,7 @@ I'm happy to support organisations in stepping up their media effort, from the p
 
 ----
 
-[Media](#media) // [Content strategy](#strategy) // [Writing](#writing) // [Podcasting](#podcasting) // [Speaking](#speaking) // [Get in touch!](#contact)
+[Media](#media) // [Content strategy](#strategy) // [Writing](#writing) // [Podcasting](#podcasting) // [Speaking](#speaking) // [Contact](#contact)
 
 ----
 
