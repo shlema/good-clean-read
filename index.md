@@ -6,13 +6,13 @@ layout: default
 
 Hi, I'm Andrii Degeler, a media leader and journalist with 15+ years of experience in covering the European technology industry. **Proceed.to >** is the storefront for all things I do for work.
 
-In my most recent role as the Head of Media at TNW (a Financial Times company), I'd led a cross-functional team of six people to make TNW Media into a noticeable presence in the European tech media landscape, covering hard technology stories to inform the audience of startups, investors, corporate innovators, and policy makers across the continent.
+In my most recent role as the Head of Media at [TNW](https://thenextweb.com) (a Financial Times company), I'd led a cross-functional team of six people to make TNW Media into a noticeable presence in the European tech media landscape, covering hard technology stories to inform the audience of startups, investors, corporate innovators, and policy makers across the continent.
 
 I'm happy to support organisations in stepping up their media effort, from the perspective of comms and media strategy, business planning, team building, as well as hands-on content production. See the outline of my services below, and [set up a call](#contact) to discuss your needs!
 
 ----
 
-[Building in-house media](#media) // [Content strategy](#strategy) // [Writing](#writing) // [Podcasting](#podcasting) // [Speaking](#speaking) // [Testimonials](#testimonials) // [Get in touch!](#contact)
+[Media](#media) // [Content strategy](#strategy) // [Writing](#writing) // [Podcasting](#podcasting) // [Speaking](#speaking) // [Get in touch!](#contact)
 
 ----
 
@@ -32,7 +32,7 @@ I've been covering technology, startups, and everything in between for print and
 
 ### <a name="podcasting"></a> Podcasting
 
-I've co-hosted, produced, recorded, and edited the Tech.eu Podcast from 2018 to 2021 and the TNW Podcast from throughout 2024. This gave me weatlth of experience in hosting a show, including writing episode scripts, interviewing guests, and assessing the final tracks. 
+I've co-hosted, produced, recorded, and edited the [Tech.eu Podcast](https://podcast.tech.eu/) from 2018 to 2021 and the [TNW Podcast](https://podcast.thenextweb.com/) throughout 2024. This gave me wealth of experience in hosting a show, including writing episode scripts, interviewing guests, and assessing the final tracks. 
 
 Proceed.to can lead or support the whole life cycle of podcast creation, from the initial idea to episode planning and scripting, including all the nitty-gritty of choosing the hosting and managing artwork and other collateral. I can also lead the recording process with professional-grade audio equipment, as well as take care of audio editing. 
 
@@ -45,10 +45,6 @@ Over the years, I’ve taken the stage at technology conferences dozens of times
 As a professional journalist, podcast host, and experienced public speaker, I’m often asked to interview technology leaders on stage and moderate panel discussions. I’ve been fortunate to share the stage with the bright minds representing the likes of NATO, Microsoft, Y Combinator, Adyen, Red Hat, and many more.
 
 I’m open to invitations to events related to the (European) technology ecosystem in the capacity of a speaker, moderator, or stage host. [Here's an outline](https://shlema.me/speaking/) of the ways I can add value to your event. 
-
-### <a name="testimonials"></a> Testimonials
-
-
 
 ### <a name="contact"></a> Get in touch!
 
